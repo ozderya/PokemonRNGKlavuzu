@@ -1,0 +1,3 @@
+# PokemonRNGKlavuzu
+
+### Deneme
